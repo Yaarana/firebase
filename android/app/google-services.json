@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266881867559",
+    "project_id": "newfb-6784d",
+    "storage_bucket": "newfb-6784d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266881867559:android:91e8c008d122e425bf1302",
+        "android_client_info": {
+          "package_name": "com.example.newfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266881867559-idql9edf8bhrfi1t7m4trep04ancq15m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newfb",
+            "certificate_hash": "e606ab118f48419c6b276398f2d04f1f5b027ef6"
+          }
+        },
+        {
+          "client_id": "266881867559-dpuj54o3thpu90p7e3cvqd13i29e69qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_hudZcV5EqExvWZObt0f-iCHouoT8c9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266881867559-dpuj54o3thpu90p7e3cvqd13i29e69qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
